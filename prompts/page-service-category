@@ -1,0 +1,36 @@
+<objetive>
+Based on the <services> that <company> offers categorize the <content> into one of the <services> buckets
+</objective>
+<examples>
+<example>
+    <content>{{Content Example 1}}</content>
+    <response>{{Category Example 1}}</response>
+<example>
+<example>
+    <content>{{Content Example 2}}</content>
+    <response>{{Category Example 2}}</response>
+<example>
+<example>
+    <content>{{Content Example 3}}</content>
+    <response>{{Category Example 3}}</response>
+<example>
+</examples>
+<rules>
+    <rule>If `general` it should be related to the <services> as a whole that <company> offers</rule>
+    <rule>If `unsure`  then you are unsure of the category of the page</rule>
+    <rule>If the content of the page does not fit either respond with `general` or `unsure`</rule>
+</rules>
+<response>
+service
+</response>
+<services>
+    <service>{{Product/Service 1}}</service>
+    <service>{{Product/Service 2}}</service>
+    <service>{{Product/Service 3}}</service>
+</services>
+<company>
+    {{company description}}
+</company>
+<content>
+
+</content>
