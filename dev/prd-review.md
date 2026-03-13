@@ -1,3 +1,9 @@
+# PRD Review
+
+Reviews an initial human created PRD to identify opportunities for improvement, detail, and refinment. Primarily for a web version of an LLM with a PRD as an .md file 
+
+Can also be adapted to CLI versions with slight changes
+
 ```
 Ruthlessly, unapologetically, and with extreme detail review the attached MD file to identify any bugs, edge cases, lack of clarity, and potential issues that may arise with it
 
