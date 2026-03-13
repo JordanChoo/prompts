@@ -1,3 +1,7 @@
+# Extract State
+
+Use this within Screaming Frog's LLM settings to extract the city from a URL
+
 ```
 <objetive>
     Extract the city from the <content> of the page
