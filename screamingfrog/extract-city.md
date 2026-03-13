@@ -1,4 +1,4 @@
-# Extract State
+# Extract City
 
 Use this within Screaming Frog's LLM settings to extract the city from a URL
 
