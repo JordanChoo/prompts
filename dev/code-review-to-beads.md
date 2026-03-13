@@ -1,3 +1,7 @@
+# Code Review to Beads
+
+Reviews the code that's been created to identify issues and then translates the issues into beads 
+
 ```
 Ok can you now turn your attention to reviewing the code written by your fellow agents and checking for any issues, bugs, errors, problems, inefficiencies, security problems, reliability issues, etc. and carefully diagnose their underlying root causes using first-principle analysis and then fix or revise them if necessary? 
 
