@@ -1,3 +1,7 @@
+# Extract Page Service/Category
+
+Use this within Screaming Frog's LLM settings to identify the service or category that the page is about
+
 ```
 <objetive>
 Based on the <services> that <company> offers categorize the <content> into one of the <services> buckets
