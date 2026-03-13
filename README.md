@@ -1,2 +1,2 @@
-# Screaming Frog Prompts
-A lazy perfectionist's collection of prompts
+# Prompts
+Somewhere to put all my prompts
