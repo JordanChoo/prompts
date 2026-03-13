@@ -1,3 +1,7 @@
+# Extract State
+
+Use this within Screaming Frog's LLM settings to extract the state from a URL
+
 ```
 <objetive>
     Extract the state from the <content> of the page
