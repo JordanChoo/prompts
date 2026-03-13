@@ -1,3 +1,7 @@
+# Combine PRDs
+
+Consolidates multiple PRDs on for the same project from different LLMs into an all inclusive one
+
 ```
 I just asked 3 competing LLMs to come up with PRDs for the same project
 
