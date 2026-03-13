@@ -1,3 +1,9 @@
+# URL Patterns
+
+Using a list of URLs from SF (or really any source), have an LLM identify patterns from the uploaded list. 
+
+_Note: This is for web versions of LLMs and require a CSV file_
+
 ```
 Attached is a CSV list of URLs for {{website}} which does {{description of website and products/sercices they offer}}
 
