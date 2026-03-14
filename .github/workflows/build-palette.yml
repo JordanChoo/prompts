@@ -1,4 +1,4 @@
-name: Build Palette TOML
+name: Build Palette
 
 on:
   push:
@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Build palette.toml
+      - name: Build command_palette.md
         run: |
           chmod +x ./dev/scripts/build-palette.sh
           ./dev/scripts/build-palette.sh
@@ -29,7 +29,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add dev/dist/palette.toml
-          git diff --staged --quiet || git commit -m "chore: rebuild palette.toml"
+          git add dev/dist/command_palette.md
+          git diff --staged --quiet || git commit -m "chore: rebuild command_palette.md"
           git push
 
