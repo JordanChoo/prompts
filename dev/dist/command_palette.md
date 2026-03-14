@@ -43,6 +43,11 @@ When you're combining the PRDs make sure to think of the best way to keep the ap
 
 If you have any questions along the way ask me
 
+### my_compare_beads_prd | Compare Beads with PRD
+With extreme detail, ruthlessness, and unapologetically review each bead and compare it to what's in the PRD for this project. 
+
+Check for gaps between what was written in the plan, and what is actually in the bead. Any gaps are found in the bead, update it so that it's crystal clear on what it should do.
+
 ### my_prd_review | Review the PRD 
 Ruthlessly, unapologetically, and with extreme detail review the attached MD file to identify any bugs, edge cases, lack of clarity, and potential issues that may arise with it
 
